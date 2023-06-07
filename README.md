@@ -6,3 +6,4 @@ Takes a binary as input and splits it until it pinpoints that exact byte that Mi
 ![](/demo.gif)
 
 **Note:** Defender must be enabled on your system, but the realtime protection and automatic sample submission features should be disabled.
+https://github.com/rasta-mouse/ThreatCheck
